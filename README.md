@@ -1,2 +1,1 @@
-[Deep Learning from Scratch, saito goki, O'REILLY]
-
+딥러닝 기초 학습
